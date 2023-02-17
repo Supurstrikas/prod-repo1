@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: prod-repo1
+  annotations:
+    github.com/project-slug: Supurstrikas/prod-repo1
+spec:
+  type: other
+  lifecycle: unknown
